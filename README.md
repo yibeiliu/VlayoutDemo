@@ -1,7 +1,7 @@
 # VlayoutDemo
 Alibaba Vlayout 的Demo
 
-![机器人的怒火](http://onj2rwa0p.bkt.clouddn.com/github/VlayoutDemo.gif)
+![机器人的怒火](https://github.com/yibeiliu/VlayoutDemo/blob/master/Screenshots/VlayoutDemo.gif)
 
 网上关于 Vlayout 资料很少，但是 Vlayout 效果还是很酷炫的，因此做个一个小 demo, 分享一下思路和用法
 
